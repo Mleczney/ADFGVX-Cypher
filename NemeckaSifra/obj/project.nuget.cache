@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e05X6vB9492qtuxAqn25Luz6x1wbj3obQaZWn9oFPBuBdiTG/gUP/ZoSbcsc2WaGmWZ1NcnydkwfVu/ejh8fsw==",
+  "success": true,
+  "projectFilePath": "E:\\NemeckaSifra\\NemeckaSifra\\NemeckaSifra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KKata\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\KKata\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\KKata\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\KKata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
